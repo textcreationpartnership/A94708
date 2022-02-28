@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority, the Parliament of the Common-wealth of England. The humble petition of divers well-affected people, inhabiting the city of London and places adjacent; in behalf of the Common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94708</idno>
+            <idno type="STC">Wing T1747</idno>
+            <idno type="STC">Thomason 669.f.15[79]</idno>
+            <idno type="STC">ESTC R212094</idno>
+            <idno type="EEBO-CITATION">99870742</idno>
+            <idno type="PROQUEST">99870742</idno>
+            <idno type="VID">163152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94708)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163152)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f15[79])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority, the Parliament of the Common-wealth of England. The humble petition of divers well-affected people, inhabiting the city of London and places adjacent; in behalf of the Common-wealth.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotations on Thomason copy: [to the right of line 30 of text] "just"; "feb. 4. 1650.".</note>
+                  <note>Reproduction of the original in the British Library.rary.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163152:1" rendition="simple:additions"/>
+            <head>TO THE
+SUPREAM AUTHORITY,
+THE
+PARLIAMENT
+OF THE
+Common-wealth of ENGLAND.
+The humble Petition of divers well-affected People, inhabiting the City of London and places adjacent;
+in behalf of the Common-wealth.</head>
+            <opener>Sheweth,</opener>
+            <p>THat although our hearts were enlarged with joy and thankfulneſs, for your late Voting the Law and all its
+Proceedings to be in Engliſh, and for conſtituting the Honourable Committee for Regulating the Courts
+of Juſtice; yet remembring that the firſt Remonſtrance of this Parliament, took notice of the tedious,
+chargeable, and corrupt practifes in Law, as one of the greateſt Grievances of the Nation, promiſing ſpeedy and
+effectual relief therein; And that nevertheleſs the Corruptions are ſtill increaſed, and the Burthen become more
+intolerable: We truſt it will admit a favourable conſtruction at this time to give you to underſtand, that our doubts
+and fears begin to abound in us, that the ſame cauſe which hath hitherto fruſtrated the firſt good intentions of Par<g ref="char:EOLhyphen"/>liament
+in this great work, will alſo render your preſent Reſolutions (if not altogether fruitleſſe, yet) very im<g ref="char:EOLhyphen"/>perfect,
+and not anſwerable to the neceſſities of the Common-wealth.</p>
+            <p>Of which our fears we cannot acquit our ſelvs, whileſt ſo many Members of this Supream Authority) profeſſing
+the Law) are poſſeſſed of ſo great places, amounting to one, two, or 3000<hi rend="sup">l</hi> 
+               <hi>per annum,</hi> and the ſeveral places of one,
+to 6000<hi rend="sup">l</hi> 
+               <hi>per annum,</hi> all ariſing from corrupt or unneceſſary Practices and Proceedings, in Law; and whileſt others of
+them purſue their pleadings for unreaſonable Fees, in every Court; And now appear daily at the Honourable Com<g ref="char:EOLhyphen"/>mittee,
+for no other end (as we humbly conceive) but either to obſtruct, weaken, or pervert the Work.</p>
+            <p>Pardon us, we beſeech you, that we cannot chuſe but judge this worthy our Fear, for unto this cauſe onely, we
+aſcribe the continuance and encreaſe of thoſe corruptions, during all the time of this Parliament, which otherwiſe
+(as we conceive) would never have continued.</p>
+            <p>And that theſe may appear no vain or groundleſs imaginations, divers well meaning Clerks have been already
+threatned and otherways diſcouraged, for giving in their Informations and Propoſitions, and from attending the
+Honourable Committee in order to a Regulation, by ſome Lawyers now Members of Parliament; And as for thoſe
+that are not Members, their numbers are ſo great, and their influence ſo powerful, by their monopolizing all Plead<g ref="char:EOLhyphen"/>ings
+to themſelves, excluding all others though never ſo able; That except this Supream Authority do by ſome ex<g ref="char:EOLhyphen"/>traordinary
+means reſtrain their Operations, it wil be almoſt impoſſible to bring this great Work to a happy and
+deſireable iſſue.</p>
+            <p>But what ever means ſhall appear neceſſary to your wiſdoms, ye have this to ſtrengthen you; <hi>That it is a work most
+acceptable to God:</hi> For if there <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a generation of men yet remaining amongſt us, that turn judgement into Gall, and
+the fruit of Righteouſneſs into Hemlock, that oppreſs the Widdow and Fatherleſs, and turn aſide the Stranger from
+his Right, that feed upon afflicted Priſoners, and nouriſh the cruelty of Goalers, <hi>Lawyers are the men.</hi> It is then a
+Work for Gods glory, to reduce them to a <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> condition, which is to be done throughly, and with all your might;
+And when in ſo doing your ways ſhall be well pleaſing to the Lord, he will make even your enemies to be at peace
+with you,</p>
+            <p>Nor can any Work (as we humbly conceive) be more acceptable to the people, as freeing them not onely from
+innummerable vexations, but from an exceſſive charge; their unneceſſary Fees drawing from amongſt them yearly,
+almoſt as much as the neceſſary charges of the Common-wealth.</p>
+            <p>In all which reſpects we are exceedingly encouraged (as the moſt effectual means to remove all obſtacles hinder<g ref="char:EOLhyphen"/>ing
+ſo good and neceſſary a Work, and of ſo great eaſe and advantage to the People) in moſt humble manner to
+entreat;</p>
+            <p>1 That no practiſing Lawyer (while ſuch) may continue a Member of this <hi>Supream Authority,</hi> nor be permitted to Sit
+or Vote in the Honourable Committee for Regulation.</p>
+            <p>2 That no perſon whatſoever, poſſeſſing any place of profit belonging to the Law, or to any Court of Juſtice, may (whil'st
+he is ſo poſſeſſed) be continued a Member either of the Parliament, or of that Honourable Committee. But yet in due
+reſpect to the honour of the Parliament, that the Honourable Mr <hi>Speaker</hi> may be provided of an allowance ſutable to the
+Honour of his place.</p>
+            <p>3 That all people may be at liberty either to plead their own Cauſes, or to retain either Lawyers or other their Friends, and
+that they may have equal Freedom and reſpect, in all Courts and places whatſoever.</p>
+            <p>4 That the Honourable Committee for Regulation, may be Ordered to take ſpecial care in clearing the paſſages and proceed<g ref="char:EOLhyphen"/>ings
+in all Cauſes, in ſuch manner, as that they may come ſpeedily and with ſmall charge to the <hi>Juries:</hi> Which (as we
+humbly conceive) is the most just and ſpeedy way of Tryal of Cauſes, that the World affords, or we can deſire; were the
+paſſage to them quit of thoſe many Lab'rinths that have been deviſed by Lawyers: And that an affixt time, as four or
+ſix Months at the most, may be expreſly ſet; wherein every Cauſe ſhall, from its beginning be finally ended.</p>
+            <p>5 That thoſe Clerks, and all other perſons whatſoever, may have eaſie and free admittance to the Honourable Committee
+for Regulation, and receive encouragement from this Honourable Parliament, in their tender of ſuch Propoſals, as they
+deſire to offer for the furtherance of ſo just and neceſſary a Work.</p>
+            <closer>All which we humbly ſubmit to the wiſdom of this <hi>Supream Authority;</hi> And as in duty bound—
+<hi>Shall ever pray, &amp;c.</hi>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
